@@ -1,0 +1,9 @@
+
+‡	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª¸¥©úÿÿÿÿ8ð–±Îª/HQRMINORZ
+CODE_SMELL
+¡
+java:S1319"oThe type of the "list" object should be an interface such as "List" rather than the implementation "ArrayList".(ö‘ìÌ8ð–±Îª/HPRMINORZ
+CODE_SMELL
+b
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ð–±Îª/HORMINORZ
+CODE_SMELL

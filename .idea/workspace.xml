@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec98baca-53ba-4924-8297-6edd45288820" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="module-info" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aNs9eYJ5pGR9Jjbsk8Q5QyxCRR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="D:/Mastering-Microservices-with-Java-Third-Edition-master/Mastering-Microservices-with-Java-Third-Edition-master/Chapter02/pom.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec98baca-53ba-4924-8297-6edd45288820" name="Default Changelist" comment="" />
+      <created>1586587235332</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586587235332</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="3" key="#Project_Structure" timestamp="1586616600535">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="233" y="3" key="#Project_Structure/0.0.1280.689@0.0.1280.689" timestamp="1586616600535" />
+    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586615065258">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.689@0.0.1280.689" timestamp="1586615065258" />
+    <state x="374" y="34" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1586613489562">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="374" y="34" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1280.689@0.0.1280.689" timestamp="1586613489562" />
+    <state x="456" y="36" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1586615858593">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="456" y="36" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1280.689@0.0.1280.689" timestamp="1586615858593" />
+    <state x="420" y="99" key="FileChooserDialogImpl" timestamp="1586616653449">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="420" y="99" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1586616653449" />
+    <state x="142" y="0" width="1108" height="689" key="SettingsEditor" timestamp="1586615735473">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="142" y="0" width="1108" height="689" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1586615735473" />
+    <state x="180" y="81" key="new project wizard" timestamp="1586613033695">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="180" y="81" key="new project wizard/0.0.1280.689@0.0.1280.689" timestamp="1586613033695" />
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup" timestamp="1586615087137">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1586615087137" />
+  </component>
+</project>
